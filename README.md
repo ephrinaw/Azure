@@ -13,4 +13,4 @@ After you have studied the above materials, you will carry out the lab exercise 
 <br>
 ## Deploy and run a containerized web app with Azure App Service
 <br>
-Conduct the task available at this link and submit relevant screenshots that verify the tasks are executed successfully. https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/ sample answer is found from the untitled.pdf file above
+Conduct the task available at this link and submit relevant screenshots that verify the tasks are executed successfully. https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/  <br> sample answer is found from the untitled.pdf file above
