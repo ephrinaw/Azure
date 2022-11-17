@@ -9,3 +9,8 @@ If your school's account does not work, you may use your personal Microsoft acco
 The learning material from Microsoft Learn "Describe core Azure architectural components"  is available at this link (https://docs.microsoft.com/en-us/learn/modules/azure-architecture-fundamentals/) You are required to study and attempt quizzes.
 <br>
 After you have studied the above materials, you will carry out the lab exercise "Create a website hosted in Azure". This lab will provide you with an overview of Microsoft Azure.
+
+<br>
+##Deploy and run a containerized web app with Azure App Service
+<br>
+Conduct the task available at this link and submit relevant screenshots that verify the tasks are executed successfully. https://docs.microsoft.com/en-us/learn/modules/deploy-run-container-app-service/ sample answer is found from the untitled.pdf file above
